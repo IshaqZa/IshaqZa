@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @IshaqZa
-- 👀 I’m interested in Computer Graphics and Back-end Web Dev
-- 🌱 I’m currently learning a lot of things at university ranging from mobile computing to web development
-- 💞️ I’m looking to collaborate on anything that can improve me in the field of computer graphics and web dev
-- 📫 How to reach me you can contact me on discord(sir.ishaq) or send me an Email on Ishaqzarour9@gmail.com
-- 😄 Pronouns: He/Him
+👋 Hi, I’m Ishaq Za’rour (@IshaqZa)
+
+👀 I’m interested in Computer Graphics, C++ development, and Back-end Web Development
+
+🌱 I’m currently studying Computer Science and working with C++, OpenGL, Kotlin, and modern web technologies
+
+💞️ I’m looking to collaborate on engine-level tools, graphics-related projects, or backend systems
+
+📫 How to reach me: Email: ishaqzarour9@gmail.com
+ · Discord: sir.ishaq
 
 <!---
 IshaqZa/IshaqZa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
